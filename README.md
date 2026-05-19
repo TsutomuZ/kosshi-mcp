@@ -50,3 +50,7 @@ npm run build
 ```
 ~/Library/Containers/app.kosshi/Data/Library/Application Support/Kosshi/Kosshi.sqlite
 ```
+
+## Credits
+
+Built with the assistance of [Claude](https://claude.ai) (Anthropic).
