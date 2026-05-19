@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kosshi": {
+      "command": "node",
+      "args": ["/Users/tsutomunuiidaiida/Developer/kosshi-mcp/dist/index.js"]
+    }
+  }
+}
