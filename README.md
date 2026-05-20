@@ -34,8 +34,8 @@ An MCP (Model Context Protocol) server that reads outline data from [Kosshi](htt
 ### 1. リポジトリをクローンする / Clone the repository
 
 ```bash
-git clone https://github.com/tsutomunuiidaiida/kosshi-MCP.git
-cd kosshi-MCP/kosshi-mcp
+git clone https://github.com/TsutomuZ/kosshi-mcp.git
+cd kosshi-mcp/kosshi-mcp
 ```
 
 ### 2. 依存パッケージをインストールしてビルドする / Install dependencies and build
